@@ -1,0 +1,8 @@
+OVT_OverthrowGameMode {
+ ID "59B6F5261FBE5DC1"
+ components {
+  OVT_OverthrowConfigComponent "{59724C8C935D8E5D}" {
+   m_sDefaultOccupyingFaction "RHS_RF_MSV"
+  }
+ }
+}

@@ -1,0 +1,8 @@
+GameProject {
+ ID "OverthrowRHSCompatibility"
+ GUID "5D8CAE1570401332"
+ TITLE "Overthrow - RHS Compatibility"
+ Dependencies {
+  "59B657D731E2A11D" "58D0FB3206B6F859" "595F2BF2F44836FB"
+ }
+}

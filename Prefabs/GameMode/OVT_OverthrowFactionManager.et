@@ -1,0 +1,11 @@
+OVT_OverthrowFactionManager {
+ ID "5D8CB07C66269E75"
+ Factions {
+  SCR_Faction "{5D8CCE028A298897}" : "{627A8CDE681D223D}Configs/Factions/RHS_RF_MSV.conf" {
+  }
+ }
+ m_aOverthrowFactions {
+  OVT_Faction "{5D8CCE0160ACBFDC}" : "{9E6900F629FF816D}Configs/Factions/RHS_RF_MSV_overthrowData.conf" {
+  }
+ }
+}

@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{37898F8AAB15BEA6}Prefabs/Structures/Military/Flags/BaseFlag_RHS_RF_MSV.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
