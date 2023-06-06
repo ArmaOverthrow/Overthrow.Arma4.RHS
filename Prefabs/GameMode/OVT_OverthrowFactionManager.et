@@ -2,10 +2,20 @@ OVT_OverthrowFactionManager {
  ID "5D8CB07C66269E75"
  Factions {
   SCR_Faction "{5D8CCE028A298897}" : "{627A8CDE681D223D}Configs/Factions/RHS_RF_MSV.conf" {
+   UIInfo SCR_FactionUIInfo "{5977478D568C0938}" {
+    Icon "{72E8159766C00C3D}UI/Textures/Flags/rhs_flag_rus.edds"
+   }
+  }
+  SCR_Faction "{5D8CE42D0A82C4DC}" : "{F33C7BF22CBF3A8A}Configs/Factions/RHS_US_USMC.conf" {
+   UIInfo SCR_FactionUIInfo "{5CC8B5EDA0CDBD62}" {
+    Icon "{EB7F65DBC9392557}UI/Textures/Editor/EditableEntities/Factions/EditableEntity_Faction_USA.edds"
+   }
   }
  }
  m_aOverthrowFactions {
   OVT_Faction "{5D8CCE0160ACBFDC}" : "{9E6900F629FF816D}Configs/Factions/RHS_RF_MSV_overthrowData.conf" {
+  }
+  OVT_Faction "{5D8CE42C181A9AC7}" : "{7E2FDEADDE88C32E}Configs/Factions/RHS_US_USMC_overthrowData.conf" {
   }
  }
 }
