@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{148852A19B0318F3}Prefabs/Weapons/Attachments/Muzzle/KAC_FLASHHIDER/KAC_FLASHHIDER.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

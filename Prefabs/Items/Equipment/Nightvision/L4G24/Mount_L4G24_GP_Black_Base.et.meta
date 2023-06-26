@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{BA9E144026A38D3E}Prefabs/Items/Equipment/Nightvision/L4G24/Mount_L4G24_GP_Black_Base.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
