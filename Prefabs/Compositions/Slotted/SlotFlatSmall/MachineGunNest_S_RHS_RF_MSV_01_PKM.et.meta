@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{6436540B011EA3E7}Prefabs/Compositions/Slotted/SlotFlatSmall/MachineGunNest_S_RHS_RF_MSV_01_PKM.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}

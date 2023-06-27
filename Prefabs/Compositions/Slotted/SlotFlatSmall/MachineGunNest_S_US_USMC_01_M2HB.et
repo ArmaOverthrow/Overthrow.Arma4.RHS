@@ -1,0 +1,24 @@
+GenericEntity : "{9D720679B696FEE1}Prefabs/Compositions/Slotted/SlotFlatSmall/MachineGunNest_S_US_01_M2HB.et" {
+ ID "52F07DE9010CEE6C"
+ {
+  GenericEntity {
+   ID "58FEB998F725D22B"
+   {
+    GameEntity {
+     ID "58FEB9990956355A"
+     components {
+      SCR_BaseCompartmentManagerComponent "{51ACFBB07A14CFA6}" {
+       CompartmentSlots {
+        TurretCompartmentSlot TurretCompartment {
+         m_DefaultOccupantData SCR_DefaultOccupantData "{59BAA9F0A2B5D5D1}" {
+          m_sDefaultOccupantPrefab "{7F333C03AF1F712B}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC/Character_US_USMC_Rifleman.et"
+         }
+        }
+       }
+      }
+     }
+    }
+   }
+  }
+ }
+}

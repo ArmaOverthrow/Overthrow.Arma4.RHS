@@ -1,0 +1,15 @@
+MetaFileClass {
+ Name "{B15B0F6F19C06D7D}Prefabs/Compositions/Slotted/SlotFlatSmall/MachineGunNest_S_US_USMC_01_M2HB.et"
+ Configurations {
+  EntityTemplateResourceClass PC {
+  }
+  EntityTemplateResourceClass XBOX_ONE : PC {
+  }
+  EntityTemplateResourceClass XBOX_SERIES : PC {
+  }
+  EntityTemplateResourceClass PS4 : PC {
+  }
+  EntityTemplateResourceClass HEADLESS : PC {
+  }
+ }
+}
