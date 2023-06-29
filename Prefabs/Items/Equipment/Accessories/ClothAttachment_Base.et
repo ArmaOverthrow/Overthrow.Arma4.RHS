@@ -1,0 +1,9 @@
+GameEntity {
+ ID "5DB09136945FC6DB"
+ components {
+  EPF_PersistenceComponent "{5DBA129295A4148E}" {
+   m_pSaveData EPF_ItemSaveDataClass "{5DBA1292939F060D}" {
+   }
+  }
+ }
+}
