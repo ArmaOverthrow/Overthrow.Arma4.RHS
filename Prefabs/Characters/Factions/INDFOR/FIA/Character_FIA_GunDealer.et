@@ -1,0 +1,18 @@
+SCR_ChimeraCharacter : "{7A9EE19AB67B298B}Prefabs/Characters/Factions/INDFOR/FIA/Character_FIA_base.et" {
+ ID "520EC961A090B1EE"
+ components {
+  BaseLoadoutManagerComponent "{520EA1D2DB11821E}" {
+   Slots {
+    LoadoutSlotInfo Hat {
+     Prefab "{F72A8745457018B2}Prefabs/Characters/HeadGear/Hat_USMC_Boonie/Hat_USMC_Boonie.et"
+    }
+    LoadoutSlotInfo Jacket {
+     Prefab "{E05D8C4D2B36C8F3}Prefabs/Characters/Uniforms/Jacket_6b51_VKPO.et"
+    }
+    LoadoutSlotInfo Pants {
+     Prefab "{0C37C8742F78CDA9}Prefabs/Characters/Uniforms/Pants_M88_Flora.et"
+    }
+   }
+  }
+ }
+}
