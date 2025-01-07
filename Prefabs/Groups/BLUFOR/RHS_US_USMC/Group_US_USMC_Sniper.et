@@ -1,4 +1,4 @@
-SCR_AIGroup : "{C6C132B7B4E24BF1}Prefabs/Groups/BLUFOR/RHS_US_USMC/Group_US_USMC_Base.et" {
+SCR_AIGroup {
  ID "0000000000000001"
  components {
   SCR_EditableGroupComponent "{50D291F6C83FA532}" {
@@ -6,7 +6,7 @@ SCR_AIGroup : "{C6C132B7B4E24BF1}Prefabs/Groups/BLUFOR/RHS_US_USMC/Group_US_USMC
     Name "#AR-Group_SniperTeam"
     Icon "{BAC8DDD536E23946}UI/Textures/Editor/EditableEntities/Groups/EditableEntity_Group_Blufor_Infantry.edds"
     m_Image "{079470215CDFACB4}UI/Textures/EditorPreviews/Groups/BLUFOR/RHS_US_USMC/Group_US_USMC_SniperTeam.edds"
-    m_aAuthoredLabels + {
+    m_aAuthoredLabels {
      70 33 35 38
     }
     m_aAutoLabels {
@@ -34,7 +34,6 @@ SCR_AIGroup : "{C6C132B7B4E24BF1}Prefabs/Groups/BLUFOR/RHS_US_USMC/Group_US_USMC
      m_Flags 3
      m_Shape MESH
      m_iPivotID ""
-     m_fScale 1
      m_vPosition 0 -5 0
      m_vAngles 0 0 0
     }
@@ -44,7 +43,6 @@ SCR_AIGroup : "{C6C132B7B4E24BF1}Prefabs/Groups/BLUFOR/RHS_US_USMC/Group_US_USMC
      m_Flags 0
      m_Shape PREFAB
      m_iPivotID ""
-     m_fScale 1
      m_vPosition 0 0 0
      m_vAngles 0 0 0
     }
@@ -54,7 +52,6 @@ SCR_AIGroup : "{C6C132B7B4E24BF1}Prefabs/Groups/BLUFOR/RHS_US_USMC/Group_US_USMC
      m_Flags 0
      m_Shape PREFAB
      m_iPivotID ""
-     m_fScale 1
      m_vPosition 3 0 -3
      m_vAngles 0 0 0
     }
@@ -62,6 +59,6 @@ SCR_AIGroup : "{C6C132B7B4E24BF1}Prefabs/Groups/BLUFOR/RHS_US_USMC/Group_US_USMC
   }
  }
  m_aUnitPrefabSlots {
-  "{EEA97833EC5EE607}Prefabs/Characters/Factions/BLUFOR/RHS_US_USMC/Character_US_USMC_Sniper.et"
+  "{19678B9267B3574A}Prefabs/Characters/Factions/BLUFOR/RHS_USAF/RHS_USAF_USMC_MEF/Character_RHS_USAF_USMC_Sniper.et"
  }
 }
