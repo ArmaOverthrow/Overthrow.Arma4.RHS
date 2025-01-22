@@ -1,6 +1,16 @@
 OVT_OverthrowGameMode {
  ID "59B6F5261FBE5DC1"
  components {
+  OVT_EconomyManagerComponent "{5988DB0008700592}" {
+   m_VehiclePriceConfig OVT_VehiclePricesConfig "{5D96A5A380C4B791}" {
+    m_aPrices {
+     OVT_VehiclePriceConfig "{646CFCE9F02ECA89}" {
+      m_sFind "UAZ469_PKM"
+      cost 14000
+     }
+    }
+   }
+  }
   OVT_OverthrowConfigComponent "{59724C8C935D8E5D}" {
    m_sDefaultOccupyingFaction "RHS_AFRF"
   }
